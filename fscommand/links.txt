@@ -1,0 +1,415 @@
+links_txt=<b>Chapter 1 Links: The Zen of Sites</b><br><br>
+<p><a href="http://www.brainwaves.com/">The BrainWaves Center</a></p><br>
+<p><a href="http://www.drawright.com/">Drawing on the Right Side of the Brain%26%238482%3B</a></p><br>
+<p><a href="http://www.funderstanding.com/right_left_brain.cfm">Funderstanding: Right Brain vs. Left Brain</a></p><br>
+<p><a href="http://www.ideasfirst.net/top-ten-tips-for-creativity.html">Ideas First: Top Ten Tips for Maximum Creativity</a></p><br>
+<p><a href="http://www.websitetips.com/design/creativity.shtml">Website Tips: Creativity and Inspiration</a></p><br>
+<br>
+<b>Chapter 2 Links: Pouring the Foundation </b><br><br>
+<p><a href="http://www-3.ibm.com/ibm/easy/eou_ext.nsf/Publish/572">IBM Web Design Guidelines</a></p><br>
+<p><a href="http://www.useit.com/">useit.com</a></p><br>
+<p><a href="http://www.webpagesthatsuck.com">Web Pages That Suck</a></p><br>
+<p><a href="http://www.webstyleguide.com/index.html?/contents.html">Web Style Guide</a></p><br>
+<br>
+<b>Chapter 3 Links: Web Page Construction 101</b><br>
+<p><a href="http://www.adobe.com/products/golive/main.html">Adobe GoLive</a></p><br>
+<p><a href="http://www.animation.arthouse.org">Animation Arthouse</a></p><br>
+<p><a href="http://www.barrysclipart.com">Barry's Clip Art Server</a></p><br>
+<p><a href="http://www.coolarchive.com">Boomer</a></p><br>
+<p><a href="http://www.clipartconnection.com">Clip Art Connection</a></p><br>
+<p><a href="http://www.coffeecup.com">CoffeeCup HTML Editor</a></p><br>
+<p><a href="http://www.coffeecup.com/image-mapper/">CoffeeCup Image Mapper</a></p><br>
+<p><a href="http://www.colorcombo.com/400_table.html">Color Combo</a></p><br>
+<p><a href="http://www.htmlcompendium.org">Compendium of HTML Elements</a></p><br>
+<p><a href="http://www.coolarchive.com">Cool Archive Free Clip Art</a></p><br>
+<p><a href="http://www.corel.com/">Corel Draw/Corel Painter</a></p><br>
+<p><a href="http://www.microsoft.com/frontpage/">FrontPage</a></p><br>
+<p><a href="http://www.graphicmaps.com/clipart.htm">Graphic Maps</a></p><br>
+<p><a href="http://www.sausage.com/hotdog-pagewiz.html">Hot Dog PageWiz</a></p><br>
+<p><a href="http://www.sausage.com/hotdog-professional.html">Hot Dog Professional</a></p><br>
+<p><a href="http://exit0.com/ns/home.html">HTML Assistant Pro</a></p><br>
+<p><a href="http://www.htmlgoodies.com">HTML Goodies</a></p><br>
+<p><a href="http://www.w3.org/TR/html401/">HTML Specification</a></p><br>
+<p><a href="http://www.hwg.org">HTML Writers Guild</a></p><br>
+<p><a href="http://www.ist.ca/htmledpro.html">HTMLed Pro</a></p><br>
+<p><a href="http://www.pcoward.com/imagemapper/">Image Mapper</a></p><br>
+<p><a href="http://www.eskimo.com/%7Ebloo/indexdot/html/index.html">Index DOT Html</a></p><br>
+<p><a href="http://www.wdvl.com/Authoring/HTML/Intro/">Introduction to HTML</a></p><br>
+<p><a href="http://www.ida.net/users/pbmck/learn/00conten.htm">Learn HTML by Example</a></p><br>
+<p><a href="http://www.boutell.com/mapedit/">Mapedit</a></p><br>
+<p><a href="http://www.noeticart.com">Noetic Art</a></p><br>
+<p><a href="http://www.jasc.com">Paint Shop Pro</a></p><br>
+<p><a href="http://www.ulead.com/pi/">Ulead PhotoImpact</a></p><br>
+<p><a href="http://www.1automata.com/hotspots/mapper.html"></u></a></p><br>
+<p><a href="http://www.webstudio.com/">Web Studio</a></p><br>
+<p><a href="http://www.xara.com/webstyle/">Xara WebStyle</a></p><br>
+<br>
+<b>Links from Chapter 4: Designing for Site Navigation</b><br>
+<p><a href="http://www.sakva.orc.ru/BOOKSHELF.HTM">Bookshelf applet</a></p><br>
+<p><a href="http://freefind.com/">Freefind.com</a></p><br>
+<p><a href="http://www.fusionbot.com/">FusionBot</a></p><br>
+<p><a href="http://www.google.com/searchcode.html">Google Free</a></p><br>
+<p><a href="http://www.consultcom.com/Java/Applets/LinkBar.html">LinkBar</a></p><br>
+<p><a href="http://www.mondosoft.com">Mondosoft</a></p><br>
+<p><a href="http://worldwidemart.com/scripts/search.shtml">Simple Search (Matt's Script Archive)</a></p><br>
+<p><a href="http://www.geocities.com/SiliconValley/Lakes/8620/vmaxnav.html">Virtual Max's VMaxNav applet</a></p><br>
+<p><a href="http://intra.whatUuseek.com">siteLevel</a></p><br>
+<br>
+<b>Links from Chapter 5: Making Things Look Great</b><br>
+<p><a href="http://www.1archive.com">1Archive.com</a></p><br>
+<p><a href="http://www.adobe.com/products/photoshop/main.html">Adobe Photoshop</a></p><br>
+<p><a href="http://www.animfactory.com">Animation Factory</a></p><br>
+<p><a href="http://www.coolnotions.com">CoolNotions.com</a></p><br>
+<p><a href="http://www.cooltext.com">CoolText.com</a></p><br>
+<p><a href="http://www.dreslough.com/dee/index.html">Dee's Art Gallery</a></p><br>
+<p><a href="http://www.gifworks.com">GIFWorks</a></p><br>
+<p><a href="http://www.jonathonart.com">Goddess Art of Jonathon Earl Bowser</a></p><br>
+<p><a href="http://www.graphicsattic.com/gahome.htm">Graphics Attic</a></p><br>
+<p><a href="http://www.gcipresso.com/">Graphics by Grazia Cipresso</a></p><br>
+<p><a href="http://www.theiowa.net/lindy/">Lindy's Graphics</a></p><br>
+<p><a href="http://www.macromedia.com/software/fireworks/">Macromedia Fireworks</a></p><br>
+<p><a href="http://www.mediabuilder.com">Media Builder</a></p><br>
+<p><a href="http://www.jasc.com/products/paintshoppro/">PaintShop Pro</a></p><br>
+<p><a href="http://www.spinwave.com/crunchers.html">Spinwave</a></p><br>
+<br>
+<b>Links from Chapter 6: Plugging in Scripts and Applets</b><br>
+<p><a href="http://www.cgi-resources.com">CGI Resource Index</a></p><br>
+<p><a href="http://www.raingod.com/raingod/resources/Programming/Perl/Notes/CGIDebugging.html">CGI: Why Things Don't Work</a></p><br>
+<p><a href="http://www.fido7.com/free-cgi/">Free CGI Resources</a></p><br>
+<p><a href="http://freewarejava.com">Freewarejava.com</a></p><br>
+<p><a href="http://www.mattkruse.com/info/cgi/">Intro to CGI</a></p><br>
+<p><a href="http://javaboutique.internet.com">Java Boutique</a></p><br>
+<p><a href="http://www.javascriptkit.com">JavaScript Kit</a></p><br>
+<p><a href="http://javascript.internet.com/">JavaScript Source</a></p><br>
+<p><a href="http://www.webdesigns1.com/perl/">Perl Primer</a></p><br>
+<p><a href="http://java.sun.com">Sun Microsystems (main Java page)</a></p><br>
+<p><a href="http://wdvl.com/Authoring/Languages/Perl/PerlfortheWeb/">WDVL: The Perl You Need to Know</a></p><br>
+<br>
+<b>Links from Chapter 7: Web Sights and Sounds</b><br>
+<p><a href="http://www.adobe.com/products/audition/">Adobe Audition</a></p><br>
+<p><a href="http://www.anvilstudio.com">Anvil Studio</a></p><br>
+<p><a href="http://www.cakewalk.com">Cakewalk</a></p><br>
+<p><a href="http://www.catovah.com/">Catovah Arts</a></p><br>
+<p><a href="http://www.sheetmusic1.com/NEW.GREAT.MUSIC.HTML">Classical Piano Free Downloads</a></p><br>
+<p><a href="http://www.finalemusic.com">Finale Music</a></p><br>
+<p><a href="http://www.freshmusic.com/home.html">Fresh Music Library</a></p><br>
+<p><a href="http://www.goldwave.com/index.html">GoldWave Digital Audio Editor</a></p><br>
+<p><a href="http://www.licensemusic.com">LicenseMusic</a></p><br>
+<p><a href="http://www.lsvideo.com/">LSVideo</a></p><br>
+<p><a href="http://www.magix.net">MAGIX Entertainment Products</a></p><br>
+<p><a href="http://www.nash.co.jp/sod/nml/">NASH Music Library</a></p><br>
+<p><a href="http://www.music2hues.com/flagship.html">Music 2 Hues</a></p><br>
+<p><a href="http://www.partnersinrhyme.com">Partners In Rhyme</a></p><br>
+<p><a href="http://www.pbtm.com">PBTM Library</a></p><br>
+<p><a href="http://www.pdinfo.com/default.htm">PD Info</a></p><br>
+<p><a href="http://pdmusic.org">PDMusic.org</a></p><br>
+<p><a href="http://www.pgmusic.com/products_bb.htm">PG Music</a></p><br>
+<p><a href="http://www.productionmusic.com">Prime Cuts!</a></p><br>
+<p><a href="http://pdinfo.com/default.htm">PD Info</a></p><br>
+<p><a href="http://www.web-helper.net/PDMusic/">Web-Helper.net Public Domain Music</a></p><br>
+<p><a href="http://www.retrofilm.com/">RetroFilm</a></p><br>
+<p><a href="http://www.royaltyfree.com">Royalty Free Music</a></p><br>
+<p><a href="http://www.analogx.com/contents/download/network/ssshout.htm">Simple Server:Shout</a></p><br>
+<p><a href="http://www.geneticmusic.com/softstep.htm">SoftStep</a></p><br>
+<p><a href="http://www.sonicspot.com/guide/fileformatlist.html">Sonic Spot: Audio File Formats</a></p><br>
+<p><a href="http://www.cpdl.org">The Choral Public Domain Library</a></p><br>
+<p><a href="http://www.musicbakery.com/">The Music Bakery</a></p><br>
+<p><a href="http://www.archives.gov/research_room/media_formats/film_sound_video.html">US National Archives</a></p><br>
+<p><a href="http://www.virtualsheetmusic.com/Downloads.html">Virtual Sheet Music</a></p><br>
+<br>
+<b>Links from Chapter 8: Web Aerobics: Tuning Up Your Site</b>
+<p><a href="http://www.cast.org/bobby/">Bobby</a></p><br>
+<p><a href="http://www2.imagiware.com/RxHTML/">Doctor HTML</a></p><br>
+<p><a href="http://watson.addy.com">Dr. Watson</a></p><br>
+<p><a href="http://linkalarm.com">LinkAlarm</a></p><br>
+<p><a href="http://www.2bone.com/links/linkchecker.shtml">Link Checker by 2bone.com</a></p><br>
+<p><a href="http://www.htmlhelp.com/tools/valet/">Link Valet</a></p><br>
+<p><a href="http://www.elsop.com/quick/">LinkScan</a></p><br>
+<p><a href="http://www.moorglade.com">Moorglade Design Group (Statbot)</a></p><br>
+<p><a href="http://www.netmechanic.com">NetMechanic</a></p><br>
+<p><a href="http://www.netmechanic.com/toolbox/power_user.htm">NetMechanic Power User</a></p><br>
+<p><a href="http://www.netmechanic.com/GIFBot/optimize-graphic.htmwww.netmechanic.com/accelerate.htm">NetMechanic GIFBot</a></p><br>
+<p><a href="http://www.gifwizard.com/">OptiView SiteScan</a></p><br>
+<p><a href="http://www.siteowner.com/sitecheck.cfm">Site Check</a></p><br>
+<p><a href="http://jigsaw.w3.org/css-validator">W3C CSS Validation Service</a></p><br>
+<p><a href="http://validator.w3.org/detailed.html">W3C HTML Validation Service (if your page is on the Web)</a></p><br>
+<p><a href="http://validator.w3.org/file-upload.html">W3C HTML Validation Service (if your page is on your local drive)</a></p><br>
+<p><a href="http://validator.w3.org/checklink">W3C Link Checker</a></p><br>
+<p><a href="http://www.htmlhelp.com/tools/validator">WDG HTML Validator</a></p><br>
+<p><a href="http://webxact.watchfire.com">WebXACT</a></p><br>
+<p><a href="http://home.snafu.de/tilman/xenulink.html">Xenu's Link Sleuth</a></p><br>
+<br>
+<b>Links from Chapter 9: Letting Them Have Their Say</b>
+<p><a href="http://www.boardhost.com">Boardhost</a></p><br>
+<p><a href="http://www.boards2go.com">Boards2Go</a></p><br>
+<p><a href="http://www.blogdot.org">BlogDot</a></p><br>
+<p><a href="http://www.blogger.com ">Blogger.com</a></p><br>
+<p><a href="http://www.bravenet.com/">Bravenet</a></p><br>
+<p><a href="http://www.dreambook.com">Dreambook</a></p><br>
+<p><a href="http://web.eesite.com/guest">Echelon Guestbooks</a></p><br>
+<p><a href="http://www.guestcity.com/">GuestCity</a></p><br>
+<p><a href="http://htmlgear.lycos.com/">htmlGear</a></p><br>
+<p><a href="http://www.parachat.com/">ParaChat</a></p><br>
+<p><a href="http://www.quickchat.org/">QuickChat</a></p><br>
+<br>
+<b>Links from Chapter 10: Just Plain Fun</b>
+<p><a href="http://www.aaapostcards.com/linkus.phtml">AAA Postcards</a></p><br>
+<p><a href="http://www.bluemonkeycomics.com">Adam Bomb</a></p><br>
+<p><a href="http://www.bogglers.com/">Bogglers.com</a></p><br>
+<p><a href="http://www.arachnoid.com/careware/">Careware</a></p><br>
+<p><a href="http://www.cartoonstock.com/daily.asp">Cartoon Stock</a></p><br>
+<p><a href="http://www.comicexchange.com">Comic Exchange</a></p><br>
+<p><a href="http://www.shoptcs.com/dt_gettoons.htm">Daily 'Toons</a></p><br>
+<p><a href="http://www.freesticky.com">FreeSticky</a></p><br>
+<p><a href="http://www.gibbleguts.com">Gibbleguts</a></p><br>
+<p><a href="http://www.hypergames.net">HyperGames</a></p><br>
+<p><a href="http://www.jagex.com/service.html">Jagex</a></p><br>
+<p><a href="http://loonyverse.50megs.com/games.html">Loonyverse (games page)</a></p><br>
+<p><a href="http://www.loonyverse.com">Loonyverse (main page)</a></p><br>
+<p><a href="http://mypostcards.com">My Postcards</a></p><br>
+<p><a href="http://navehumor.com/php/feed.php">Nave Humor</a></p><br>
+<p><a href="http://onyoursite.com/jokes">On Your Site Jokes</a></p><br>
+<p><a href="http://onyoursite.com/quotes">On Your Site Quotables</a></p><br>
+<p><a href="http://www.ginini.com.au/tools/postcard-direct/">Postcard Direct</a></p><br>
+<p><a href="http://www.arachnoid.com/quoter/index.html">Quoter applet</a></p><br>
+<p><a href="http://www.riddlenut.com/">RiddleNut.com</a></p><br>
+<p><a href="http://www.jasonlove.com/webmasters/">Snapshots</a></p><br>
+<p><a href="http://www.insanityideas.com/quotemachine/remotequote.html">The Quote Machine</a></p><br>
+<p><a href="http://en.thinkexist.com/DailyQuotation/stepsize.asp">ThinkExist.com</a></p><br>
+<p><a href="http://www.io.com/%7Erga/scripts/cgitoday.html">Today in History</a></p><br>
+<p><a href="http://www.toytrunkrailroad.com">Toy Trunk Railroad</a></p><br>
+<p><a href="http://www.amuseyourself.com/twistedhistory/">Twisted History </a></p><br>
+<br>
+<b>Links from Chapter 11: Using Content Providers</b>
+<p><a href="http://7am.com/ticker/addticker.html">7am News Ticker </a></p><br>
+<p><a href="http://www.accuweather.com">AccuWeather</a></p><br>
+<p><a href="http://www.ezinearticles.com">EzineArticles.com</a></p><br>
+<p><a href="http://www.newsindex.com">News Index</a></p><br>
+<p><a href="http://www.newshub.com/affiliates/g.cgi">NewsHub</a></p><br>
+<p><a href="http://www.aphrodigitaliac.com/pipeline">Pipeline News</a></p><br>
+<p><a href="http://www.promo.net/pg/">Project Gutenberg</a></p><br>
+<p><a href="http://www.webreference.com/services/news/">RSS Newsfeeds</a></p><br>
+<p><a href="http://www.ugkrishnamurti.org">The Essential UG</a></p><br>
+<p><a href="http://www.weather.com">The Weather Channel</a></p><br>
+<p><a href="http://www.well.com/user/jct">U.G.Krishnamurti</a></p><br>
+<p><a href="http://www.ugkrishnamurti.org/ug/copyright/index.html">U.G. Krishnamurti copyright notice</a></p><br>
+<p><a href="http://www.wunderground.com">Weather Underground (main page)</a></p><br>
+<p><a href="http://www.wunderground.com/autobrandinfo">Weather Underground (customized weather options)</a></p><br>
+<br>  
+<b>Links for Chapter 12: Stalking the Wild Dollar</b>
+<p><a href="http://www.athand.com">At Hand Network Yellow Pages</a></p><br>
+<p><a href="http://www.tollfree.att.net/tf.html">AT&T AnyWho Info</a></p><br>
+<p><a href="http://www.bigbook.com">BigBook</a></p><br>
+<p><a href="http://www.copresco.com/pkgtrack.htm">Copresco: Internet Tools for Package Tracking</a></p><br>
+<p><a href="http://www.dhl.com">DHL</a></p><br>
+<p><a href="http://www.ebay.com/">eBay</a></p><br>
+<p><a href="http://www.fedex.com">FedEx</a></p><br>
+<p><a href="http://www.freightworld.com/exp_geo.html">Freightworld</a></p><br>
+<p><font color = "#0380B7"><a href="http://www.cio.com/archive/111503/play.html"><u>"How to Play to Your Audience" from <em>CIO Magazine</em></a><em> </em> </p>
+<p><a href="http://www.infobel.com/teldir/">Infobel World Telephone Directories</a></p><br>
+<p><a href="http://www.infospace.com/home/yellow-pages">InfoSpace Yellow Pages</a></p><br>
+<p><a href="http://www.packtrack.com/sample.html">PackTrack.com</a></p><br>
+<p><a href="http://www.purolator.com">Purolator Courier Ltd.</a></p><br>
+<p><a href="http://www.switchboard.com">Switchboard</a></p><br>
+<p><a href="http://www.teletransport.it/newweb/eng/pagine/servizi-ship.asp">TeleTransport Shipping Tracking</a></p><br>
+<p><a href="http://www.track-trace.com">track-trace</a></p><br>
+<p><a href="http://www.ups.com">United Parcel Service</a></p><br>
+<p><a href="http://www.usps.com">United States Postal Service</a></p><br>
+<p><a href="http://www.stcsig.org/usability/newsletter/">Usability SIG newsletter</a></p><br>
+<p><a href="http://yp.yahoo.com">Yahoo! Yellow Pages</a></p><br>
+<br>
+<b>Links for Chapter 13: Love That Plastic: Taking Credit Cards</b>
+<p><a href="http://www.aismerchantservices.com/index.htm">AIS Merchant Services</a></p><br>
+<p><a href="http://www.americanexpress.com/homepage/merchant.shtml">American Express (merchant application)</a></p><br>
+<p><a href="http://www.cartserver.com/americart/">Americart Shopping Cart Service</a></p><br>
+<p><a href="http://www.merchant-accounts.com">AMS Merchant Account Services </a></p><br>
+<p><a href="http://www.best-payment.com">Best Payment Solutions</a></p><br>
+<p><a href="http://www.box4me.com">Box4me.com</a></p><br>
+<p><a href="http://www.checksbyfax.net">Checks by Fax</a></p><br>
+<p><a href="http://www.clickbank.com/">ClickBank</a></p><br>
+<p><a href="http://http://www.clockwatchers.com/shopping.html">Clockwatchers</a></p><br>
+<p><a href="http://www.code9software.com">Code 9 Software</a></p><br>
+<p><a href="http://www.coreave.com">Coreave</u></a></p><br>
+<p><a href="http://www.discoverbiz.com">Discover Business Services</a></p><br>
+<p><a href="http://www.emscorporate.com/ecomm.htm">Electronic Merchant Systems</a></p><br>
+<p><a href="http://www.epaymentsolutions.com/">ePayment Solutions</a></p><br>
+<p><a href="http://www.ezmerchantaccounts.com">EZ Merchant Accounts</a></p><br>
+<p><a href="http://www.harrisbank.com/smallbiz/c_merchant.html">Harris Bank</a></p><br>
+<p><a href="http://www.infomerchant.net/merchantaccounts/mastercard_acquirers.html">Info Merchant </a></p><br>
+<p><a href="http://www.easydesksoftware.com/check.htm">Instant Check</a></p><br>
+<p><a href="http://www.mbe.com">Mailboxes Etc.</a></p><br>
+<p><a href="http://www.mastercardmerchant.com/cgi-bin/acqdir/merchantReg.cgi">MasterCard USA</a></p><br>
+<p><a href="http://www.merchantaccount.com">MerchantAccount.com</a></p><br>
+<p><a href="http://www.merchant-systems.com">Merchant Systems</a></p><br>
+<p><a href="http://www.monstermerchantaccount.com">Monster Merchant Account</a></p><br>
+<p><a href="http://www.pakmail.com">Pak Mail</a></p><br>
+<p><a href="http://www.paymentech.com/">Paymentech</a></p><br>
+<p><a href="http://www.paypal.com/">PayPal</a></p><br>
+<p><a href="http://www.postalannex.com">PostalAnnex+</a></p><br>
+<p><a href="http://www.postalconnections.com">Postal Connections</a></p><br>
+<p><a href="http://www.xe.net/ecc/shoppers">Shopper's Currency Converter™</a></p><br>
+<p><a href="http://www.skipjack.com/">Skipjack Financial Services</a></p><br>
+<p><a href="http://www.storefront.net">Storefront.net</a></p><br>
+<p><a href="http://www.totalmerchantservices.com">Total Merchant Services</a></p><br>
+<p><a href="http://www.xe.net/ucc/customize.htm">Universal Currency Converter™</a></p><br>
+<p><a href="http://hosting.verio.com/index.php/ecommerce.html">Verio</a></p><br>
+<p><a href="http://www.visa.com/pd/cards/us/main.html">VISA USA</a></p><br>
+<p><a href="http://smallbusiness.yahoo.com/merchant/">Yahoo Merchant Services </a></p><br>
+<br>
+<b>Links for Chapter 14</b>
+<p><a href="http://www.affiliateguide.com">Affiliateguide.com</a></p><br>
+<p><a href="http://www.affiliatematch.com">Affiliatematch.com</a></p><br>
+<p><a href="http://AffiliatesDirectory.com">AffiliatesDirectory.com</a></p><br>
+<p><a href="http://www.affiliateshop.com">AffiliateShop</a></p><br>
+<p><a href="http://www.affiliateworld.com">AffiliateWorld.com</a></p><br>
+<p><a href="https://associates.amazon.com/exec/panama/associates/apply/">Amazon.com</a></p><br>
+<p><a href="http://www.associatesearch.com">Associate Search</a></p><br>
+<p><a href="http://www.associateprograms.com">Associate Programs.com</a></p><br>
+<p><a href="http://atlnetwork.com">ATL Affiliate Programs </a></p><br>
+<p><a href="http://www.bbb.org">Better Business Bureau</a></p><br>
+<p><a href="http://www.the-dma.org">Direct Marketing Association</a></p><br>
+<p><font color = "#0380B7"><a href="http://www.clickquick.com"><u>ClickQ</a><a href="http://www.clickquick.com">uick.com</a>
+<p><a href="http://www.cj.com/">Commission Junction</a></p><br>
+<p><a href="http://www.cg-affiliates.com">Consumer Guide</a></p><br>
+<p><a href="http://www.cyberbounty.com">Cyberbounty</a></p><br>
+<p><a href="http://www.directleads.com">DirectLeads Network</a></p><br>
+<p><a href="http://www.interneka.com">Interneka Affiliate</a></p><br>
+<p><a href="http://www.linkshare.com">Linkshare</a></p><br>
+<p><a href="http://www.myaffiliateprogram.com">My Affiliate Program</a></p><br>
+<p><a href="http://www.petsmart.com/global/affiliate/ap_affiliate_program.jsp">PETsMART</a></p><br>
+<p><a href="http://www.affiliatesoftware.net">Pro Track</a></p><br>
+<p><a href="http://www.refer-it.com">Refer-It</a></p><br>
+<p><a href="http://www.stamps.com/affiliates/">Stamps.com</a></p><br>
+<p><a href="http://www.staples.com/services/affiliates/befree/">Staples Office Supplies</a></p><br>
+<p><a href="http://www.groundbreak.com">Ultimate Affiliate</a></p><br>
+<p><a href="http://valueclick.com">ValueClick</a></p><br>
+<p><a href="http://www.whichaffiliate.com">WhichAffiliate</a></p><br>
+<br>
+<b>Links for Chapter 15: Letting The World In</b>
+<p><a href="http://www.50megs.com">50Megs.com</a></p><br>
+<p><a href="http://angelfire.lycos.com">Angelfire</a></p><br>
+<p><a href="http://www.betterwhois.com">Better-Whois.com</a></p><br>
+<p><a href="http://reviews.cnet.com/Host_power_search/7011-6540_7-0.html">c|net</a></p><br>
+<p><a href="http://www.checkdomain.com">checkdomain.com</a></p><br>
+<p><a href="http://home.crosswinds.net">Crosswinds</a></p><br>
+<p><a href="http://www.dreamwater.com">Dreamwater</a></p><br>
+<p><a href="http://www.FindAHost.com">FindAHost.com</a></p><br>
+<p><a href="http://www.freedomlist.com">Freedomlist</a></p><br>
+<p><a href="http://www.freewebspace.net">FreeWebspace.net</a></p><br>
+<p><a href="http://www.hostindex.com">HostIndex</a></p><br>
+<p><a href="http://www.hostreview.com/power_search.html">HostReview.com</a></p><br>
+<p><a href="http://www.iana.org/domain-names.htm">IANA (Internet Assigned Numbers Authority)</a></p><br>
+<p><a href="http://www.iana.org/cctld/cctld-whois.htm">ICANN country level TLD registrar list</a></p><br>
+<p><a href="http://www.icann.org/registrars/accredited-list.html">ICANN generic TLD registrar list</a></p><br>
+<p><a href="http://www.netcraft.com">Netcraft</a></p><br>
+<p><a href="http://www.networksolutions.com">Network Solutions</a></p><br>
+<p><a href="http://www.networksolutions.com/cgi-bin/whois/whois">Network Solutions Whois page</a></p><br>
+<p><a href="http://serverwatch.internet.com/webservers.html">ServerWatch</a></p><br>
+<p><a href="http://topcities.com">TopCities</a></p><br>
+<p><a href="http://www.tripod.lycos.com">Tripod</a></p><br>
+<p><a href="http://www.webhostingtalk.com">WebHostingTalk.com</a></p><br>
+<p><a href="http://www.whois.net">WhoIs.net</a></p><br>
+<p><a href="http://www.analogx.com/contents/download/network/whois.htm">WhoIs Ultra</a></p><br>
+<br>
+<b>Links for Chapter 16: Publicizing Your Site</b>
+<p><a href="http://www.addme.com">AddMe.com</a></p><br>
+<p><a href="http://www.alltheweb.com">All the Web</a></p><br>
+<p><a href="http://www.alltheweb.com/help/webmaster/submit_site">All the Web submission page</a></p><br>
+<p><a href="http://www.altavista.com">AltaVista</a></p><br>
+<p><a href="http://addurl.altavista.com/addurl/new">AltaVista submission page</a></p><br>
+<p><a href="http://www.edynamicsoft.com">Apex Pacific</a></p><br>
+<p><a href="http://www.ask.com">Ask Jeeves</a></p><br>
+<p><a href="http://sp.ask.com/docs/about/jeevesiq.html">Ask Jeeves IQ (Interesting Queries)</a></p><br>
+<p><a href="http://ask.ineedhits.com/sitesubmit.asp">Ask Jeeves submission page</a></p><br>
+<p><a href="http://www.bannerpromo.com">BannerPromo.com</a></p><br>
+<p><a href="http://einets.com/">EIS Banner Exchange</a></p><br>
+<p><a href="http://www.excite.com">Excite</a></p><br>
+<p><a href="https://secure.ah-ha.com/guaranteed_inclusion/teaser.aspx">Excite submission page</a></p><br>
+<p><a href="http://www.google.com">Google</a></p><br>
+<p><a href="http://www.google.com/addurl.html">Google submission page</a></p><br>
+<p><a href="http://www.gmarketing.com/">Guerilla Marketing Online</a></p><br>
+<p><a href="http://www.hitx.net">HitExchange</a></p><br>
+<p><a href="http://www.linkbuddies.com">LinkBuddies</a></p><br>
+<p><a href="http://www.freeclassifiedlinks.com/linktrader.html">Link Trader</a></p><br>
+<p><a href="http://www.lycos.com">Lycos</a></p><br>
+<p><a href="http://50.lycos.com">Lycos 50 Daily Report</a></p><br>
+<p><a href="http://insite.lycos.com">Lycos submission page</a></p><br>
+<p><a href="http://www.metaspy.com">MetaSpy</a></p><br>
+<p><a href="http://www.searchenginewatch.com/">Search Engine Watch </a></p><br>
+<p><a href="http://www.analogx.com/contents/download/network/keyex.htm">Keyword Extractor</a></p><br>
+<p><a href="http://www.analogx.com/contents/download/network/keyword.htm">Keyword Live</a></p><br>
+<p><a href="http://www.freeclassifiedlinks.com/linktrader.html">Link Trader</a></p><br>
+<p><a href="http://www.networksolutions.com/cgi-bin/whois/whois">Network Solutions WhoIs</a></p><br>
+<p><a href="http://www.proboost.com">ProBoost</a></p><br>
+<p><a href="http://www.ringsurf.com">RingSurf</a></p><br>
+<p><a href="http://www.webcrawler.com">Webcrawler</a></p><br>
+<p><a href="http://www.webcrawler.com/info.wbcrwl/search/help/popular.htm">Webcrawler popular searches</a></p><br>
+<p><a href="https://secure.ah-ha.com/guaranteed_inclusion/teaser.aspx?network=WebCrawler">Webcrawler submission page</a></p><br>
+<p><a href="http://www.webring.org">Webring.org</a></p><br>
+<p><a href="http://www.analogx.com/contents/download/network/whois.htm">WhoIs Ultra</a></p><br>
+<p><a href="http://www.searchspy.com">Word Tracker</a></p><br>
+<p><a href="http://www.yahoo.com">Yahoo!</a></p><br>
+<p><a href="http://add.yahoo.com/fast/add?+Business">Yahoo! submission page (commercial sites)</a></p><br>
+<p><a href="http://add.yahoo.com/fast/add">Yahoo! submission page (noncommercial sites)</a></p><br>
+<br>
+<b>Links for Chapter 17: Keeping in Touch with Visitors </b>
+<p><a href="http://www.once.com">@Once</a></p><br>
+<p><a href="http://autoresponders.org">Autoresponders.org</a></p><br>
+<p><a href="http://www.aweber.com">AWeber Systems</a></p><br>
+<p><a href="http://www.changedetection.com">ChangeDetection.com</a></p><br>
+<p><a href="http://www.changenotes.com">ChangeNotes</a></p><br>
+<p><a href="http://www.dk3.com">DK3.com</a></p><br>
+<p><a href="http://www.emailxtra.com">Emailxtra.com</a></p><br>
+<p><a href="http://www.ezinemarketingcenter.com">Ezine Marketing Center</a></p><br>
+<p><a href="http://www.flashlog.com">FlashLog</a></p><br>
+<p><a href="http://www.getresponse.com">GetResponse.com</a></p><br>
+<p><a href="http://getresponse.com/login.html">GetResponse.com login</a></p><br>
+<p><a href="http://www.sendfree.com">SendFree</a></p><br>
+<br>
+<b>Links from Chapter 18: Getting Feedback from Visitors</b>
+<p><a href="http://www.alxnet.com/services/poll/">Alxnet Poll</a></p><br>
+<p><a href="http://ezpolls.superstats.com">EZPolls</a></p><br>
+<p><a href="http://www.formsite.com">FormSite.com</a></p><br>
+<p><a href="http://www.freedback.com">Freedback.com</a></p><br>
+<p><a href="http://www.freepolls.com">Freepolls.com</a></p><br>
+<p><a href="http://www.nytebyte.com/business/cgisamp/formaker.htm">Nytebyte's Form Maker</a></p><br>
+<p><a href="http://www.response-o-matic.com">Response-O-Matic</a></p><br>
+<p><a href="http://www.sitegadgets.com">SiteGadgets.com</a></p><br>
+<p><a href="http://www.sparklit.com">Sparklit.com</a></p><br>
+<br>
+<b>Links for Chapter 19: Ten Great Places to Get Advice</b>
+<p><a href="http://www.bizymoms.com">Bizy Moms</a></p><br>
+<p><a href="http://www.cozahost.com/news/">Cozahost newsletter</a></p><br>
+<p><a href="http://www.geekvillage.com/forums">geek/talk</a></p><br>
+<p><a href="http://www.grammarnow.com">grammarNOW!</a></p><br>
+<p><a href="http://www.kasamba.com">Kasamba</a></p><br>
+<p><a href="http://LawGuru.com">LawGuru.com</a></p><br>
+<p><a href="http://www.siteowners.com">Siteowners.com</a></p><br>
+<p><a href="http://www.isquare.com">The Small Business Advisor</a></p><br>
+<p><a href="http://www.webdevelopersjournal.com">Web Developer's Journal</a></p><br>
+<p><a href="http://www.websitetips.com">Website Tips</a></p><br>
+<br>
+<b>Links for Chapter 20: Ten Fabulous Tools for E-Commerce</b>
+<p><a href="http://www.cafepress.com">CafePress.com</a></p><br>
+<p><a href="http://www.the-dma.org/privacy/creating.shtml">DMA Privacy Policy Generator</a></p><br>
+<p><a href="http://ecommerce.internet.com">ECommerce Guide</a></p><br>
+<p><a href="http://www.humanclick.com">HumanClick</a></p><br>
+<p><a href="http://www.mapquest.com">MapQuest</a></p><br>
+<p><a href="http://www.oscommerce.com">osCommerce</a></p><br>
+<p><a href="http://www.greenpoints.com">S&H Greenpoints</a></p><br>
+<p><a href="http://www.systransoft.com">Systran</a></p><br>
+<p><a href="http://www.truste.com">TRUSTe</a></p><br>
+<p><a href="http://www.truste.com/wizard">TRUSTe privacy statement wizard</a></p><br>
+<p><a href="http://www.worldpay.com">WorldPay</a></p><br>
+<br>
+<b>Links for Chapter 21: Ten More Great Add-Ins</b>
+<p><a href="http://www.atwatch.com">@Watch</a></p><br>
+<p><a href="http://www.bigmailbox.com">BigMailBox.com</a></p><br>
+<p><a href="http://www.crossword-compiler.com">Crossword Compiler</a></p><br>
+<p><a href="http://www.geobytes.com/GeoPhrase.htm">GeoPhrase</a></p><br>
+<p><a href="http://www.leonardo.com">Leonardo MediaBank</a></p><br>
+<p><a href="http://www.localendar.com">localendar</a></p><br>
+<p><a href="http://www.merriam-webster.com/searchbox/">Merriam-Webster</a></p><br>
+<p><a href="http://counter.superstats.com">SuperStats</a></p><br>
+<p><a href="http://www.bravenet.com/webtools/announce/index.php">Tell-A-Friend</a></p><br>
+<p><a href="http://http://www.thefinancials.com/mfr_free.html">theFinancials.com</a></p><br>
